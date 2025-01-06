@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_navs_main_navigations",
+  "info": {
+    "displayName": "Main Navigation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.button-link"
+    }
+  }
+}

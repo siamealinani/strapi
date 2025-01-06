@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_navigation_menus",
+  "info": {
+    "displayName": "Navigation Menu"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.button-link"
+    }
+  }
+}

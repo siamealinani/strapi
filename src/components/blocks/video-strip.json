@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_video_strips",
+  "info": {
+    "displayName": "Video Strip",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "video": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "files",
+        "videos"
+      ]
+    }
+  }
+}
